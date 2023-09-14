@@ -1,6 +1,6 @@
 # Practical part
 
-**Engagement:**
+**Condition:**
 - Calculate retention and time that players spend in the game.
 - How players advance through levels.
 - How players progress through quests.
