@@ -9,6 +9,6 @@
 - Show where players make their first payments
 - Show where players make the most payments
 
-# Conclusion
+**Conclusion:**
 
 After the analysis, a conclusion was made, and a strategy for further analysis was proposed based on the events I proposed.
